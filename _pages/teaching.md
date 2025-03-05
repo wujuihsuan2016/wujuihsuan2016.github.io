@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### CSE102 Computer Programming (TD)
 
-Organize your courses by years, topics, or universities, however you like!
+- Check [Moodle](https://moodle.polytechnique.fr/course/view.php?id=12833)
+  for any information about the course.
+- Do not hesitate to ask questions via Slack or by email.
+- There is basically no deadline for submitting your code. However, you are strongly encouraged
+to do it before the next lecture.
+- [Here](CSE102) are some additional problems that some of you may find it interesting to look at.
+- [TD02](../assets/pdf/TD02.pdf) is here.
