@@ -23,15 +23,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-joined-the-partout-team-at-inria-saclay-as-a-phd-student",
+        },{id: "news-i-joined-the-partout-team-at-inria-saclay-as-a-phd-student",
           title: 'I joined the PARTOUT team at Inria Saclay as a PhD student.',
           description: "",
           section: "News",},{id: "news-i-gave-the-talk-a-positive-perspective-on-term-representation-at-proofs-and-algorithms-seminar-lix-inria-saclay-online-slides",
