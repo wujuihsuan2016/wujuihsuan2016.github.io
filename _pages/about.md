@@ -27,7 +27,7 @@ announcements:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am Jui-Hsuan Wu! I am a postdoctoral researcher in the [Plume](https://www.ens-lyon.fr/LIP/PLUME/) team, [LIP](https://www.ens-lyon.fr/LIP/), ENS Lyon. I also go by the name Ray.
+Hi! I am Jui-Hsuan Wu! I am a postdoctoral researcher in the [Plume](https://www.ens-lyon.fr/LIP/PLUME/) team, [LIP](https://www.ens-lyon.fr/LIP/), ENS Lyon, funded by the ANR project [RECIPROG](https://www.irif.fr/reciprog/index). I also go by the name Ray.
 
 Previously, I was a PhD student at [LIX](https://www.lix.polytechnique.fr/), 
 [Ecole Polytechnique](https://www.polytechnique.edu/en) & [Inria](https://www.inria.fr/en) Saclay advised by [Dale Miller](http://www.lix.polytechnique.fr/Labo/Dale.Miller/) and [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/). Even before, I studied computer science and mathematics at [Ecole Normale Supérieure](https://www.ens.psl.eu/) and got a master degree from [Master Parisien de Recherche en Informatique](https://wikimpri.dptinfo.ens-cachan.fr/doku.php).
@@ -40,12 +40,6 @@ You can have a look at my [CV](assets/pdf/CV.pdf) ([Version française](assets/p
 - Functional programming
 
 ### Current research
- 
-I am current working on term representation based on [proof theory](https://en.wikipedia.org/wiki/Proof_theory).
-
-Terms (or expressions) are essential in many different settings: mathematical proofs, programming
-languages, proof assistants, etc. Proof theory has been widely used to
-motivate the design of term structures.
 
 The goal of my PhD project is to design/study term structures based on some well-chosen proof system, in the hope
 that proof-theoretic considerations will on one hand provide careful and formal descriptions of term structures and on the other hand give us more insights on terms.
