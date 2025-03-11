@@ -39,44 +39,6 @@ You can have a look at my [CV](assets/pdf/CV.pdf) ([Version française](assets/p
 - $$\lambda$$-calculus
 - Functional programming
 
-### Current research
-
-The goal of my PhD project is to design/study term structures based on some well-chosen proof system, in the hope
-that proof-theoretic considerations will on one hand provide careful and formal descriptions of term structures and on the other hand give us more insights on terms.
-
-Instead of using proof systems such as Gentzen's natural deduction and sequent
-calculus, we use the [focused](https://en.wikipedia.org/wiki/Focused_proof)
-proof system LJF in order to give more structure to proofs. The notion of
-**polarization** gives the flexibility to construct differents forms of proofs,
-which is a desirable feature since we want to be able to describe different term structures
-in our system. In particular, we consider the negative (resp. positive)
-polarization, that is, the one that assigns the negative (resp. positive)
-polarity to each atom. This two polarizations induce two very different styles
-of term structures. Intuitively, the negative polarization yields the usual
-tree-like syntax, without any possible sharing within a term, while the positive
-polarization yields a syntax where sharing is possible within a term via some
-specific form of explicit substitutions (or let-expressions). Based on this
-approach, we also propose a positive presentation of $$\lambda$$-terms, called
-positive $$\lambda$$-terms (negative $$\lambda$$-terms coincide with usual
-$$\lambda$$-terms). See our [CSL2023 paper](assets/pdf/csl2023-techrep.pdf) for more
-details.
-
-A key point in our CSL paper is that ($$\lambda$$-)terms correspond to cut-free
-proofs. This means that the usual computation-as-proof-normalization approach
-would not work in our setting. For this, I proposed another approach which
-involves some proof transformation (that transforms a cut-free proof into a
-proof with cuts) and cut-elimination. Such an approach is however not universal,
-it is should be seen as a recipe that one could follow and adapt based on his/her
-purposes. The untyped $$\lambda$$-calculus can be defined from negative/usual
-$$\lambda$$-terms in this way. What about positive $$\lambda$$-terms?
-Following a similar idea, I defined the **positive $$\lambda$$-calculus** and show its
-reduction is compatible with the beta-reduction of the $$\lambda$$-calculus in a meaningful way. Since positive $$\lambda$$-terms involve a number of let-expressions,
-it is natural to consider the equivalence based on permutable or parallel let's, namely the structural equivalence.
-For this, I defined $$\lambda$$-graphs with bodies, essentially DAGs
-with some additional structure to deal with bindings, that capture the structural equivalence on positive $$\lambda$$-terms. See my [APLAS2023 paper](assets/pdf/APLAS2023.pdf) for more details.
-
-Recently, I worked with Beniamino Accattoli on a connection between the positive $$\lambda$$-calculus and **usefulness**, a notion of reduction with sharing first introduced to study reasonable cost models. You can find more details in our MFPS2024 paper.
-
 ### Misc
 
 I am from New Taipei, Taiwan. 
