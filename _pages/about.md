@@ -27,7 +27,7 @@ announcements:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am Jui-Hsuan Wu! I am a postdoctoral researcher in the [Plume](https://www.ens-lyon.fr/LIP/PLUME/) team, [LIP](https://www.ens-lyon.fr/LIP/), ENS Lyon, funded by the ANR project [RECIPROG](https://www.irif.fr/reciprog/index). I also go by the name Ray.
+Hi! I am Jui-Hsuan Wu! I am a postdoctoral researcher working with [Denis Kuperberg](https://perso.ens-lyon.fr/denis.kuperberg/) and [Olivier Laurent](https://perso.ens-lyon.fr/olivier.laurent/) in the [Plume](https://www.ens-lyon.fr/LIP/PLUME/) team, [LIP](https://www.ens-lyon.fr/LIP/), ENS Lyon, on the ANR project [RECIPROG](https://www.irif.fr/reciprog/index). I also go by the name Ray.
 
 Previously, I was a PhD student at [LIX](https://www.lix.polytechnique.fr/), 
 [Ecole Polytechnique](https://www.polytechnique.edu/en) & [Inria](https://www.inria.fr/en) Saclay advised by [Dale Miller](http://www.lix.polytechnique.fr/Labo/Dale.Miller/) and [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/). Even before, I studied computer science and mathematics at [Ecole Normale Supérieure](https://www.ens.psl.eu/) and got a master degree from [Master Parisien de Recherche en Informatique](https://wikimpri.dptinfo.ens-cachan.fr/doku.php).
