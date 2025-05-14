@@ -5,4 +5,4 @@ inline: true
 ---
 
 I visited the [Institute of Information Science](https://www.iis.sinica.edu.tw/en/index.html), Academia Sinica, Taiwan
-and gave a [talk](https://www.iis.sinica.edu.tw/en/page/Events/data/DJ240071.html) on focusing and polarization there.
+and gave a [talk](https://www.iis.sinica.edu.tw/en/page/Events/data/DJ240071.html) on focusing and polarization there. [Slides](assets/pdf/AcademiaSinica051124.pdf).
