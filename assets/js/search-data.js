@@ -47,7 +47,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-gave-a-talk-at-mfps-2024-university-of-oxford-uk-slides-and-video",
           title: 'I gave a talk at MFPS 2024 @ University of Oxford, UK. Slides...',
           description: "",
-          section: "News",},{id: "news-i-visited-the-institute-of-information-science-academia-sinica-taiwan-and-gave-a-talk-on-focusing-and-polarization-there",
+          section: "News",},{id: "news-i-visited-the-institute-of-information-science-academia-sinica-taiwan-and-gave-a-talk-on-focusing-and-polarization-there-slides",
           title: 'I visited the Institute of Information Science, Academia Sinica, Taiwan and gave a...',
           description: "",
           section: "News",},{id: "news-i-defended-my-phd-thesis-proof-theory-syntactic-representations-logic-and-sharing-on-december-13th-2024-check-out-my-thesis-here",
