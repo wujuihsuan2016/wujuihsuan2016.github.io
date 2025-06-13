@@ -53,7 +53,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-defended-my-phd-thesis-proof-theory-syntactic-representations-logic-and-sharing-on-december-13th-2024-check-out-my-thesis-here",
           title: 'I defended my PhD thesis “Proof theory, syntactic representations, logic, and sharing” on...',
           description: "",
-          section: "News",},{id: "news-i-gave-a-talk-at-local-seminar-lipn-université-sorbonne-paris-nord",
+          section: "News",},{id: "news-i-gave-a-talk-at-local-seminar-lipn-université-sorbonne-paris-nord-slides",
           title: 'I gave a talk at LoCal seminar @ LIPN, Université Sorbonne Paris Nord....',
           description: "",
           section: "News",},{
