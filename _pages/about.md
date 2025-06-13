@@ -41,22 +41,17 @@ You can have a look at my [CV](assets/pdf/CV.pdf) ([Version française](assets/p
 
 ### Misc
 
-I am from New Taipei, Taiwan. 
+I am from New Taipei, Taiwan.
 
 Find out how my name is pronouced: [Jui, 睿](https://forvo.com/word/%E7%9D%BF/#zh) (sounds like ray in English) and [Hsuan, 軒](https://forvo.com/word/%E8%BB%92/#zh).
 
-Take a look at [APLL](https://github.com/wujuihsuan2016/LL_prover), an automated prover for propositional
-[linear logic](https://en.wikipedia.org/wiki/Linear_logic) designed and implemented by me.
+I am an amateur [go](https://en.wikipedia.org/wiki/Go_(game)) player. I used to be a 6-dan player back in Taiwan.
 
-I am an amateur [go](https://en.wikipedia.org/wiki/Go_(game)) player. I used to be a 6-dan player (a long time ago) back in Taiwan.
+Take a look at [APLL](https://github.com/wujuihsuan2016/LL_prover), an automated prover for propositional
+[linear logic](https://en.wikipedia.org/wiki/Linear_logic) designed and implemented by me. If you are new to linear logic, you can also play with [C1ick & c⊗LLec⊥](https://click-and-collect.linear-logic.org), an interactive prover for linear logic whose automated proving part is based on APLL.
 
 I am a music enthusiast. I mainly listen to Hip Hop, R&B, and Jazz. My favorite
-artists are [Soft Lipa](https://www.youtube.com/watch?v=xPU-cgPjZKk), [Loyle Carner](https://www.youtube.com/watch?v=1GmuDka6pbk),
-[FKJ](https://www.youtube.com/watch?v=qU5FWU0SH0o), [Mac Miller](https://www.youtube.com/watch?v=aIHF7u9Wwiw),
-[H.E.R.](https://www.youtube.com/watch?v=vBy7FaapGRo),
-[Nick Hakim](https://www.youtube.com/watch?v=N83D8KUeCqs), [Sunset Rollercoaster](https://www.youtube.com/watch?v=wNp7WJusiHQ), ...
-
-I recently got into [French touch](https://en.wikipedia.org/wiki/French_house) music: [Modjo](https://www.youtube.com/watch?v=mMfxI3r_LyA), [Étienne de Crécy](https://www.youtube.com/watch?v=Hu4dTob8avQ), [Cassius](https://www.youtube.com/watch?v=lXhl9Sey6l8), [Breakbot](https://www.youtube.com/watch?v=6okxuiiHx2w), and of course the one and only [Daft Punk](https://www.youtube.com/watch?v=K0HSD_i2DvA).
+artists include [Daft Punk](https://www.youtube.com/watch?v=K0HSD_i2DvA),  [Soft Lipa](https://www.youtube.com/watch?v=xPU-cgPjZKk), [Sunset Rollercoaster](https://www.youtube.com/watch?v=wNp7WJusiHQ), [Loyle Carner](https://www.youtube.com/watch?v=1GmuDka6pbk), [FKJ](https://www.youtube.com/watch?v=qU5FWU0SH0o), [Mac Miller](https://www.youtube.com/watch?v=aIHF7u9Wwiw), [H.E.R.](https://www.youtube.com/watch?v=vBy7FaapGRo), [Nick Hakim](https://www.youtube.com/watch?v=N83D8KUeCqs).
 
 My brother is a freelance image maker, check out his works [here](http://wujuiche.com/).
 
