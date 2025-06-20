@@ -33,7 +33,7 @@ Previously, I was a PhD student at [LIX](https://www.lix.polytechnique.fr/),
 [Ecole Polytechnique](https://www.polytechnique.edu/en) & [Inria](https://www.inria.fr/en) Saclay advised by [Dale Miller](http://www.lix.polytechnique.fr/Labo/Dale.Miller/) and [Beniamino Accattoli](https://sites.google.com/site/beniaminoaccattoli/). Even before, I studied computer science and mathematics at [Ecole Normale Supérieure](https://www.ens.psl.eu/) and got a master degree from [Master Parisien de Recherche en Informatique](https://wikimpri.dptinfo.ens-cachan.fr/doku.php).
 You can have a look at my [CV](assets/pdf/CV.pdf) ([Version française](assets/pdf/CVfr.pdf)).
 
-I am mainly interested in structural proof theory and its connection with the theory of programming languages. My research interests include focusing \& polarization, Curry-Howard correspondence, linear logic, and lambda calculus.
+I am mainly interested in structural proof theory and its connection with the theory of programming languages. My research interests include focusing & polarization, Curry-Howard correspondence, linear logic, and lambda calculus.
 Recently, I have been working on proof theory for subtyping of intersection types.
 
 ### Misc
