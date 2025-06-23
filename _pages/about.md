@@ -42,13 +42,11 @@ I am from New Taipei, Taiwan.
 
 Find out how my name is pronouced: [Jui, 睿](https://forvo.com/word/%E7%9D%BF/#zh) (sounds like ray in English) and [Hsuan, 軒](https://forvo.com/word/%E8%BB%92/#zh).
 
-I am an amateur [go](https://en.wikipedia.org/wiki/Go_(game)) player. I used to be a 6-dan player back in Taiwan.
-
 Take a look at [APLL](https://github.com/wujuihsuan2016/LL_prover), an automated prover for
 [linear logic](https://en.wikipedia.org/wiki/Linear_logic) designed and implemented by me. If you are new to linear logic, check out the interactive prover [C1ick & c⊗LLec⊥](https://click-and-collect.linear-logic.org) whose automated proving part is based on APLL.
 
-I am a music enthusiast. My favorite artists include [Daft Punk](https://www.youtube.com/watch?v=K0HSD_i2DvA), [Soft Lipa](https://www.youtube.com/watch?v=xPU-cgPjZKk), [Sunset Rollercoaster](https://www.youtube.com/watch?v=wNp7WJusiHQ), [Loyle Carner](https://www.youtube.com/watch?v=1GmuDka6pbk), [FKJ](https://www.youtube.com/watch?v=qU5FWU0SH0o), [Mac Miller](https://www.youtube.com/watch?v=aIHF7u9Wwiw), [H.E.R.](https://www.youtube.com/watch?v=vBy7FaapGRo), [Nick Hakim](https://www.youtube.com/watch?v=N83D8KUeCqs).
-
-My brother is a freelance image maker, check out his works [here](http://wujuiche.com/).
-
 <center><iframe src="https://free.timeanddate.com/countdown/i9ftwgtd/n195/cf11/cm0/cu4/ct0/cs0/ca0/co1/cr0/ss0/cac000/cpc111/pceee/tc66c/fn3/fs100/szw320/szh135/tatTime%20left%20to%20Event%20in/tac000/tptI%20have%20been%20in%20France%20for/tpc111/iso2015-07-18T07:30:00" allowtransparency="true" frameborder="0" width="336" height="36"></iframe></center>
+
+I am a music enthusiast. My favorite artists include [Daft Punk](https://www.youtube.com/watch?v=K0HSD_i2DvA), [Soft Lipa](https://www.youtube.com/watch?v=xPU-cgPjZKk), [Sunset Rollercoaster](https://www.youtube.com/watch?v=wNp7WJusiHQ), [Loyle Carner](https://www.youtube.com/watch?v=1GmuDka6pbk), [FKJ](https://www.youtube.com/watch?v=qU5FWU0SH0o), [Mac Miller](https://www.youtube.com/watch?v=aIHF7u9Wwiw), and [Parcels](https://www.youtube.com/watch?v=_2qsU8FGU_E).
+
+My brother is a freelance image maker. Check out his works [here](http://wujuiche.com/).
