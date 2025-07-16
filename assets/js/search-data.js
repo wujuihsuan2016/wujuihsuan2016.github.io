@@ -56,6 +56,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-gave-a-talk-at-local-seminar-lipn-université-sorbonne-paris-nord-slides",
           title: 'I gave a talk at LoCal seminar @ LIPN, Université Sorbonne Paris Nord....',
           description: "",
+          section: "News",},{id: "news-our-paper-positive-sharing-and-abstract-machines-with-beniamino-accattoli-and-claudio-sacerdoti-coen-has-been-accepted-at-aplas-2025",
+          title: 'Our paper “Positive Sharing and Abstract Machines” (with Beniamino Accattoli and Claudio Sacerdoti...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
