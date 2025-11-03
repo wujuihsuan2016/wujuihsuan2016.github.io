@@ -47,6 +47,6 @@ Take a look at [APLL](https://github.com/wujuihsuan2016/LL_prover), an automated
 
 <center><iframe src="https://free.timeanddate.com/countdown/i9ftwgtd/n195/cf11/cm0/cu4/ct0/cs0/ca0/co1/cr0/ss0/cac000/cpc111/pceee/tc66c/fn3/fs100/szw320/szh135/tatTime%20left%20to%20Event%20in/tac000/tptI%20have%20been%20in%20France%20for/tpc111/iso2015-07-18T07:30:00" allowtransparency="true" frameborder="0" width="336" height="36"></iframe></center>
 
-I am a music enthusiast. My favorite artists include [Daft Punk](https://www.youtube.com/watch?v=K0HSD_i2DvA), [Soft Lipa](https://www.youtube.com/watch?v=xPU-cgPjZKk), [Sunset Rollercoaster](https://www.youtube.com/watch?v=wNp7WJusiHQ), [Loyle Carner](https://www.youtube.com/watch?v=1GmuDka6pbk), [FKJ](https://www.youtube.com/watch?v=qU5FWU0SH0o), [Mac Miller](https://www.youtube.com/watch?v=aIHF7u9Wwiw), and [Parcels](https://www.youtube.com/watch?v=_2qsU8FGU_E).
+I am a music enthusiast. My favorite artists include [Daft Punk](https://www.youtube.com/watch?v=K0HSD_i2DvA), [Soft Lipa](https://www.youtube.com/watch?v=xPU-cgPjZKk), [Sunset Rollercoaster](https://www.youtube.com/watch?v=wNp7WJusiHQ), [Loyle Carner](https://www.youtube.com/watch?v=1GmuDka6pbk), [FKJ](https://www.youtube.com/watch?v=qU5FWU0SH0o), [Mac Miller](https://www.youtube.com/watch?v=aIHF7u9Wwiw), [Parcels](https://www.youtube.com/watch?v=_2qsU8FGU_E), [Pomme](https://www.youtube.com/watch?v=jIqA5sg5gZM), and [Nujabes](https://www.youtube.com/watch?v=Fwv2gnCFDOc).
 
-My brother is a freelance image maker. Check out his works [here](http://wujuiche.com/).
+My brother is an image maker. Check out his work [here](http://wujuiche.com/).
