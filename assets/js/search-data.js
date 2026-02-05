@@ -59,6 +59,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-positive-sharing-and-abstract-machines-with-beniamino-accattoli-and-claudio-sacerdoti-coen-has-won-the-best-paper-award-at-aplas-2025-pdf",
           title: 'Our paper “Positive Sharing and Abstract Machines” (with Beniamino Accattoli and Claudio Sacerdoti...',
           description: "",
+          section: "News",},{id: "news-i-gave-a-talk-on-our-recent-work-on-intersection-subtyping-at-the-chocola-meeting-slides",
+          title: 'I gave a talk on our recent work on intersection subtyping at the...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
