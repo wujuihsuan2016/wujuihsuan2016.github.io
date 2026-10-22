@@ -68,12 +68,15 @@ ninja.data = [{
           section: "News",},{id: "news-i-gave-a-talk-on-our-recent-work-on-intersection-subtyping-at-syntax-meets-semantics-irif-paris-france-slides",
           title: 'I gave a talk on our recent work on intersection subtyping at Syntax...',
           description: "",
+          section: "News",},{id: "news-our-paper-non-wellfounded-derivations-for-intersection-subtyping-with-fixpoints-with-olivier-laurent-has-been-accepted-at-fscd-2026-pdf",
+          title: 'Our paper “Non-Wellfounded Derivations for Intersection Subtyping with Fixpoints” (with Olivier Laurent) has...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6A%75%69-%68%73%75%61%6E.%77%75@%65%6E%73-%6C%79%6F%6E.%66%72# %79%6F%75%72 %65%6D%61%69%6C %61%64%64%72%65%73%73", "_blank");
+          window.open("mailto:%6A%75%69-%68%73%75%61%6E.%77%75@%6E%6F%72%6D%61%6C%65%73%75%70.%6F%72%67", "_blank");
         },
       },{
         id: 'social-github',
